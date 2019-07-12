@@ -1,6 +1,6 @@
 {
   "name": "apod-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get Astronomy Picture of the Day Right Into Your Terminal As ASCII",
   "main": "cli.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "asciify-image": "^0.1.5",
     "chalk": "^2.4.2",
     "configstore": "^5.0.0",
-    "inquirer": "^6.3.1",
+    "inquirer": "^6.5.0",
     "ora": "^3.4.0"
   }
 }
